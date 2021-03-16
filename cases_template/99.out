@@ -1,0 +1,1 @@
+[Pair(Symbol("quasiquote"),Pair(Pair(Char('D'), Pair(Number(Float(1234.1234)), Pair(Number(Fraction (1234, 1)), Pair(String("OK"), Bool(true))))),Nil))]

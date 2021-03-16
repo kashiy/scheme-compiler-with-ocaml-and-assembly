@@ -1,0 +1,1 @@
+[Pair(Symbol("unquote"),Pair(Pair(Char('D'), Pair(Number(Float(23.32)), Pair(Number(Fraction (12, 1)), Pair(String("okokok"), Pair(Bool(true), Nil))))),Nil))]

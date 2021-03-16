@@ -1,0 +1,1 @@
+[Pair(Symbol("unquote"),Pair(Pair(Char('F'), Pair(Number(Float(121212.212121)), Pair(Number(Fraction (121212, 1)), Pair(String("the"), Bool(true))))),Nil))]
