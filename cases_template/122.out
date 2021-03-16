@@ -1,0 +1,1 @@
+[Pair(Char('A'), Pair(Number(Float(123456.234)), Pair(Number(Fraction (555, 1)), Pair(String("test"), Bool(true))))]

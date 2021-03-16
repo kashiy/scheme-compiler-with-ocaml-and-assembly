@@ -1,0 +1,1 @@
+[Pair(Symbol("unquote-splicing"),Pair(Pair(Char('c'), Pair(Number(Fraction (3, 4)), Pair(Number(Fraction (4, 5)), Pair(String("this"), Nil)))),Nil))]

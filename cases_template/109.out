@@ -1,0 +1,1 @@
+[Pair(Symbol("quasiquote"),Pair(Pair(Char('c'), Pair(Number(Float(555.555)), Pair(Number(Float(555.555)), Pair(String("test"), Bool(false))))),Nil))]
